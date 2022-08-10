@@ -1,11 +1,11 @@
 # Mass edit all items of a SharePoint list
-Power Automate scripts which perform edit on every item of a sharepoint list, to avoid editing each item manually.
+Power Automate Cloud scripts which perform edit on every item of a sharepoint list, to avoid editing each item manually.
 
 ## Prerequisites
 
 A professional Microsoft account (1), which gives access to the following tools :
 
-* Power Automate - [website](https://emea.flow.microsoft.com)
+* Power Automate Cloud - [website](https://emea.flow.microsoft.com) (please note this is a different software from Power Automate Desktop)
 * Sharepoint Lists - [SharePoint website](https://www.microsoft.com/microsoft-365/sharepoint/collaboration)
 
 (1) Microsoft 365 E3 licence or equivalent (see [Microsoft entreprise plans comparison](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)), some educational or non profit plans may also work.
