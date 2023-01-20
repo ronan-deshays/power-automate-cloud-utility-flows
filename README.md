@@ -12,11 +12,11 @@ A professional Microsoft account (1), which gives access to the following tools 
 
 ## Installation
 
-1. Download on this GitHub repository the latest release of "<feature>_power_automate_package.zip". 
+1. Download on this GitHub repository the [latest release asset](https://github.com/ronan-deshays/mass-edit-sharepoint-list/releases) of "<feature>_power_automate_package.zip". 
 With <feature>, the name of the package which suits your needs.
 2. Go to the Power Automate **Cloud** editor (not Power Automate Desktop) > My flows > Import > Import Package (Legacy) > Upload a .zip package file ;
 Select the "<feature>_power_automate_package.zip" file that you previously downloaded ;
-[details missing, in part the same process as digital assistant]
+[details missing]
  
 ## Features
 
