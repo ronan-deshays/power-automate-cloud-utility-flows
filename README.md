@@ -43,3 +43,12 @@ A set of Power Automate Cloud flows to enable Excel Online to deal with specific
 
 * give to anybody who knows a given email adress, a write only access to a given Excel table (e.g. user will only be able to write, but will not be able to read) - [latest release](https://github.com/ronan-deshays/power-automate-cloud-utility-templates/releases/latest/download/write_only_access_to_excel_table_using_outlook.zip) - [unzipped folder](https://github.com/ronan-deshays/power-automate-cloud-utility-templates/tree/main/write_only_access_to_excel_table_using_outlook)
 *Note* : this flow is secure "by design", because an email sent to only one mail box is only visible by the owner of this mailbox.
+
+## GitHubisation process
+
+Specific setting : flows are exported as "create new", as shown on picture below.
+
+![Export settings screenshot](https://github.com/ronan-deshays/power-automate-cloud-utility-templates/blob/main/0%20-%20docs/ExportProcess1.png)
+
+* ZIP file is uploaded in release.
+* ZIP file unzipped is uploaded as source code.
