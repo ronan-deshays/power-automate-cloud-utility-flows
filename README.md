@@ -27,7 +27,7 @@ A set of Power Automate Cloud flows to extend capabilities of Power Automate.
 
 ### Turbocharge SharePoint lists using Power Automate Cloud
 
-A set of Power Automate Cloud flows which perform edit on every item of a sharepoint list (e.g. mass edit), to avoid editing each item manually.
+A set of Power Automate Cloud flows which perform edit on every item of a sharepoint list (i.e. mass edit), to avoid editing each item manually.
 
 * empty a given SharePoint list (delete all items of a given SharePoint list without deleting the SharePoint list itself) - [latest release](https://github.com/ronan-deshays/power-automate-cloud-utility-templates/releases/latest/download/sharepoint_list___empty_list.zip) - [unzipped folder](https://github.com/ronan-deshays/power-automate-cloud-utility-templates/tree/main/sharepoint_list___empty_list)
 
